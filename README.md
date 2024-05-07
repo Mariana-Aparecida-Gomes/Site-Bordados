@@ -1,6 +1,6 @@
-<h1>Seja Bem vindo ao protótipo de site de Encomenda de Bordados do Ateliê Mari&Arts!!</h1>
+<h1>Seja Bem vindo ao protótipo de site de Encomenda de Bordados do Ateliê Mari&Art!!</h1>
 
-<h1>Marca: Ateliê Mari&Arts</h1>
+<h1>Marca: Ateliê Mari&Art</h1>
 
 # Site Principal 1
 ![Site Principal/Carrosel](https://github.com/Mariana-Aparecida-Gomes/Site-Bordados/blob/main/img/corpo%20da%20página%201.png)
