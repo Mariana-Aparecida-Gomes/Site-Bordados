@@ -35,7 +35,7 @@
 # Fontes
 ![Fontes](https://github.com/Mariana-Aparecida-Gomes/Site-Bordados/blob/main/img/Fontes.png)
 
-# Link para o Figma
+# Link para o Figma (copie e cole)
 [https://www.figma.com/file/RjXYR2sNEVMzdbmEXy2D8z/Site-bordados?type=design&node-id=0%3A1&mode=design&t=pumyQtUfS2uUgfDt-1](url)
 
 
